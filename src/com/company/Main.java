@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Arrays;
 
-public class Main {1
+public class Main {
 
     public static void main(String[] args) {
         Dplayers dplayers = new Dplayers();
